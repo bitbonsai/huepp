@@ -17,6 +17,16 @@ What? Really?
 ![Screenshot... so you read alt texts, huh?](http://bitbonsai.com/huepp/huepp.png)
 
 ## Q&A
+
+### It doesn't work on iPhone!
+Well... blame apple for using a crappy webview for Chrome. Possible solutions:
+
+1. Try with Safari
+2. Fix it
+3. Gimme an iPhone so I can fix it (I recommend this one)
+
+In case of 3, make it permanent so I can avoid future bugs.
+
 ### How long did you take to do this master piece?
 1,5h. Hence the **awesome** code
 
